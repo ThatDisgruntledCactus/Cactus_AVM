@@ -1,6 +1,8 @@
 # Cactus_AVM
 Collection of scripts to help make gaming on Linux the best way to play. Just one script atm, though :)
 
+Bully: Scholarship Edition is the only working title at this time, but I'm as passionate as I am ignorant, so I'm hoping to get more out soon.
+
 I don't have anything to put here, at this time. Massive thank you to the general Python community, as well as ThirteenAG, Cookieplmonster and P3ti.
 
 I'm not 100% certain how to do the licensing thing, but I think I did it correctly.
