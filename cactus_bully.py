@@ -3,7 +3,7 @@
 """
 Created on Fri Oct 22 04:18:15 2021
 
-@author: matthew
+@author: TheDisgruntledCactus
 """
 
 import urllib.request
