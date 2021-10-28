@@ -10,3 +10,5 @@ If you have any problems with images not appearing, be sure you're running the p
 So, CD into the directory with the .py, and run 'python cactus_bully.py'.
 
 Any problems, please let me know.
+
+I have no idea what I'm doing, but it's exciting :D
