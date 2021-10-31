@@ -13,4 +13,4 @@ So, CD into the directory with the .py, and run 'python cactus_bully.py'.
 
 Any problems, please let me know.
 
-Thought I had no idea what I was doingg, but everything works, and it's exciting :D
+Thought I had no idea what I was doing, but everything works, and it's exciting :D
