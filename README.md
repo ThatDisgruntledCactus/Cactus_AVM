@@ -5,6 +5,10 @@ Bully: Scholarship Edition is the only working title at this time, but I'm as pa
 
 I don't have anything to put here, at this time. Massive thank you to the general Python community, as well as ThirteenAG, Cookieplmonster and P3ti.
 
+View Cookieplmonsters' and P3tis' work here: https://github.com/CookiePLMonster/
+
+View ThirteenAG's work here: https://github.com/ThirteenAG/
+
 I'm not 100% certain how to do the licensing thing, but I think I did it correctly.
 
 If you have any problems with images not appearing, be sure you're running the python script with the terminal directory being where the .py file is.
