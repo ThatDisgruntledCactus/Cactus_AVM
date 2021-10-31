@@ -17,6 +17,15 @@ from PIL import Image
 
 os.system('clear')
 
+current_dir = os.getcwd()
+current_dir = current_dir.replace("\n", "")
+
+
+if os.path.isfile(current_dir + "/cactus_bully.py") == False:
+    print('Sorry, but you must launch this script from the root python directory; where cactus_bully.py resides. CD into the directory it is in, and')
+    print('run it from there with:    python cactus_bully.py\n\n' )
+    raise SystemExit()
+
 print("Welcome to the Cactus Automated Vidya Modifier!")
 print("================================================")
 print('\n\nThis script will automate the install of the excellent Widescreen Patch by ThirteenAG, and')
